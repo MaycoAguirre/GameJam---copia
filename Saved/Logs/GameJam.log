@@ -1836,3 +1836,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.30-21.58.18:381][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.12.30-21.58.18:382][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2024.12.30-21.58.18:481][437]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.12.30-21.59.59:951][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 306.971222
+[2024.12.30-22.00.00:951][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-22.00.00:951][967]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 307.637634, Update Interval: 352.721344
+[2024.12.30-22.00.53:706][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.30-22.00.54:622][223]LogSlate: Window 'Save Content' being destroyed
+[2024.12.30-22.00.54:630][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-22.00.54:692][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.30-22.00.54:707][223]LogSavePackage: Moving output files for package: /Game/Niveles/LevelPruebas
+[2024.12.30-22.00.54:707][223]LogSavePackage: Moving '../../../../../../Users/Pc/Documents/Unreal Projects/GameJam - copia/Saved/LevelPruebas926EF5A6438F0F2FB0FFC2B2600B52BD.tmp' to '../../../../../../Users/Pc/Documents/Unreal Projects/GameJam - copia/Content/Niveles/LevelPruebas.umap'
+[2024.12.30-22.00.54:716][223]LogFileHelpers: Saving map 'LevelPruebas' took 0.041
+[2024.12.30-22.00.54:724][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.411 ms
+[2024.12.30-22.00.54:757][223]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-22.00.54:757][223]LogContentValidation: Enabled validators:
+[2024.12.30-22.00.54:757][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-22.00.54:757][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-22.00.54:757][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-22.00.54:757][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-22.00.54:757][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-22.00.54:757][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-22.00.54:757][223]AssetCheck: /Game/Niveles/LevelPruebas Validating asset
