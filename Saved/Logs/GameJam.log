@@ -2368,3 +2368,20 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.31-02.20.52:824][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.31-02.20.52:824][892]AssetCheck: /Game/Niveles/Nivel2D/Nivel2D Validating asset
 [2024.12.31-02.20.52:824][892]AssetCheck: /Game/Niveles/Nivel2D/TileSet/Plataforma/TM_Nivel2D Validating asset
+[2024.12.31-02.22.22:243][479]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Auriculares (H848 USB Gaming Headset)'
+[2024.12.31-02.22.22:267][479]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (H848 USB Gaming Headset), InstanceID=1
+[2024.12.31-02.22.22:303][479]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Micrófono (H848 USB Gaming Headset)'
+[2024.12.31-02.22.22:348][479]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2024.12.31-02.22.22:348][479]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18992
+[2024.12.31-02.22.22:455][480]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device), InstanceID=1
+[2024.12.31-02.22.22:683][480]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2024.12.31-02.22.22:685][480]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48f69ce1-a3a6-4caa-8b8e-5b4d8174bfe6}, Name=Auriculares (H848 USB Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.38
+[2024.12.31-02.22.22:685][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.31-02.22.22:689][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.31-02.22.23:015][481]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2024.12.31-02.22.23:015][481]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18992
+[2024.12.31-02.22.23:348][482]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2024.12.31-02.22.23:350][482]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{63594e0b-2ff9-4fe8-951f-1fc16b72be00}, Name=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.53
+[2024.12.31-02.22.23:350][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.12.31-02.22.23:352][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.31-02.22.38:665][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
