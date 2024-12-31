@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dana/Documents/GitHub/GameJam---copia/Content/Niveles/Nivel2D/Nivel2D.umap",
+				"C:/Users/Dana/Documents/GitHub/GameJam---copia/Content/Niveles/Nivel2D/TileSet/Plataforma/TM_Nivel2D.uasset"
+			]
+		}
+	]
+}
